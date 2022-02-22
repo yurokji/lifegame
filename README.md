@@ -1,4 +1,4 @@
-# lifegame
+# Conway's life game using Cellular Automata
 심심해서 창조주 노릇 좀 해봤습니다.
 
 콘웨이의 라이프게임 
